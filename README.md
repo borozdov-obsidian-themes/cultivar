@@ -39,10 +39,14 @@ accent that does all the work.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Cultivar**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Trellis**. Install Borozdov Trellis under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Cultivar** under Style Settings → Borozdov Trellis → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/cultivar/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Cultivar/`, then choose Borozdov Cultivar under
 Settings → Appearance → Themes.
@@ -56,6 +60,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Seedbank» — данные на
 шалфейно-серой бумаге с чернильно-лесными показаниями, и тёмный «Rootstock» — тот же
 терминал, вросший в тёмную почву, с живыми зелёными показаниями. Плоские карточки на
-тонкой линии и мох как единственный закрашенный акцент. Шрифты не встроены. Устанавливается
-из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Cultivar → Установить и
-применить.
+тонкой линии и мох как единственный закрашенный акцент. Шрифты не встроены. В каталоге тема живёт вариантом Borozdov Trellis: установите Borozdov Trellis и плагин Style Settings, затем выберите Cultivar в Style Settings → Borozdov Trellis → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
